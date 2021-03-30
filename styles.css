@@ -16,49 +16,53 @@
     }
         .nav{
         height:200px;
-        padding:1px;
+        margin:0px;
         background-color:rgb(19, 140, 161);
         border:solid black;
         color:white;
-        align-content: center;
         justify-content:space-around;     
         }
 h1
 {
     color:white;
-    margin: 0px;
+    margin:5px;
 }
 h3
 {
     color:black;
-    margin:5px;
+    margin:15px;
 }
 h4{
     background-color:white;
     border-radius:25px;
     color:purple;
-    margin:15px;
+    margin:10px;
     justify-content:space-around;
 }
-
+h5{
+    margin:40px;
+    justify-content:space-around;
+}
 .btn-primary{
-background-color: purple;
-    
-    padding:1px;
-    justify-content:space-around;
+background-color: purple; 
+padding:0px;
+margin:20px;
+border-radius:10px;
+justify-content:space-around;
 }
-.dropdown{
-    margin:1px;
+.dropdown
+{
 background-color: white;
 border:solid black;
+margin:10px;
 }
 .card{
     
     background-color: rgb(19, 140, 161);
-margin:0;
+margin:5px;
 }
 h6{
     background-color: white;
     color:black;
-
+    margin: 5px;
 }
